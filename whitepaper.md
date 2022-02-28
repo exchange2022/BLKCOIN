@@ -142,6 +142,10 @@ connect with them through this token and along with this their community get inf
 from the website, and as more people come they introduce new coins and tokens so people
 can also use that coins and tokens to get more benefits
 
+![cross-chain](./assets/tokenomics.png)
+![cross-chain](./assets/roadmap.png)
+
+
 
 ### TRADINGPLATFORM
 
